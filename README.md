@@ -30,8 +30,8 @@ This project leverages Natural Language Processing (NLP) and Machine Learning te
 ## 🚀 How to Run the Project
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/fake-news-detection.git
-   cd fake-news-detection
+   git clone https://github.com/MahmoudSaad21/Fake-News-Detection-with-NLP-and-Machine-Learning.git
+   cd Fake-News-Detection-with-NLP-and-Machine-Learning
    ```
 
 2. **Install Dependencies**  
